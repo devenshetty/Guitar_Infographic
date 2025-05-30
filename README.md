@@ -8,7 +8,7 @@ Song Rating:	The number of listeners that rated the song a perfect score of 5 ou
 
 Song Hits: Number of views.
 
-Page Type:	What Type Of Notes Did The Page Contain Tab/Chords/GP etc.
+Page Type:	What type of notes did the page contain tab/chords/GP etc.
 
 Difficulty: Difficulty level of playing the song on the guitar.	
 
