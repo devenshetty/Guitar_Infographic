@@ -1,6 +1,6 @@
 The dataset contains the following fields:
 
-Artist: The name of the artist.
+Artist: The name of the artist. \n
 Song Name: The name of the song.
 Song Rating:	The number of listeners that rated the song a perfect score of 5 out of 5.
 Song Hits: Number of views.
